@@ -19,7 +19,7 @@ tf.y = 170;
 tf.btn_charas = [];
 for(let i = 0; i < tf.charas.length ; i++){
 if(f[tf.charas[i] + '_enc'] == 1){
-tf.btn_charas.push(tf.charas[i]);
+tf.btn_charas.push(i);
 }
 }
 tf.btn_length = tf.btn_charas.length;
@@ -31,11 +31,11 @@ tf.btn_length = tf.btn_charas.length;
 *loopstart
 
 [iscript]
-tf.target_storage = tf.charas[tf.cnt]+"_6_2.ks";
+tf.target_storage = tf.charas[tf.btn_charas[tf.cnt]]+"_6_2.ks";
 [endscript]
 
 [tb_start_tyrano_code]
-[glink  color="black"  storage=&tf.target_storage  size="20"  text=&tf.btn_text[tf.cnt]  x="150"  y=&tf.y  ]
+[glink  color="black"  storage=&tf.target_storage  size="20"  text=&tf.btn_text[tf.btn_charas[tf.cnt]]  x="150"  y=&tf.y  ]
 [_tb_end_tyrano_code]
 
 [iscript]
