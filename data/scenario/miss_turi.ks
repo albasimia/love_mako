@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_miss_turi.ks]
+[_tb_system_call storage=system/miss_turi.ks]
 
 [cm  ]
 [iscript]

@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_bad_end_1.ks]
+[_tb_system_call storage=system/bad_end_1.ks]
 
 [cm  ]
 [stopbgm  time="3000"  fadeout="true"  ]

@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_chana_3_1.ks]
+[_tb_system_call storage=system/chana_3_1.ks]
 
 [cm  ]
 [bg  storage="bg/famima_d.PNG"  time="1000"  ]

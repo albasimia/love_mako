@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_chana_5_2.ks]
+[_tb_system_call storage=system/chana_5_2.ks]
 
 [cm  ]
 [bg  storage="bg/jinja_n.PNG"  time="1000"  ]

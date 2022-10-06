@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_makiko_7_1.ks]
+[_tb_system_call storage=system/makiko_7_1.ks]
 
 [cm  ]
 [bg  storage="bg/live.PNG"  time="1000"  ]

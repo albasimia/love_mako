@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_taki_3_1.ks]
+[_tb_system_call storage=system/taki_3_1.ks]
 
 [cm  ]
 [bg  storage="bg/turi_d.PNG"  time="1000"  ]

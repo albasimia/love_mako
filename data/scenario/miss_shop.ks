@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_miss_shop.ks]
+[_tb_system_call storage=system/miss_shop.ks]
 
 [cm  ]
 [iscript]

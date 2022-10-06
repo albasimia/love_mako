@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_taguchi_2_2.ks]
+[_tb_system_call storage=system/taguchi_2_2.ks]
 
 [cm  ]
 [bg  storage="bg/ramen_n.PNG"  time="1000"  ]

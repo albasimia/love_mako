@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_miss_jinja.ks]
+[_tb_system_call storage=system/miss_jinja.ks]
 
 [cm  ]
 [iscript]

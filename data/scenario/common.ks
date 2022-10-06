@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_common.ks]
+[_tb_system_call storage=system/common.ks]
 
 [iscript]
 tf.encount = {

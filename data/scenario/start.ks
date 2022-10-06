@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_start.ks]
+[_tb_system_call storage=system/start.ks]
 
 [iscript]
 f['day_no']=1;

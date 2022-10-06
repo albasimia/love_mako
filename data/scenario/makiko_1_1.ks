@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_makiko_1_1.ks]
+[_tb_system_call storage=system/makiko_1_1.ks]
 
 [cm  ]
 [iscript]

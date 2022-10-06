@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_chana_1_1.ks]
+[_tb_system_call storage=system/chana_1_1.ks]
 
 [cm  ]
 [iscript]

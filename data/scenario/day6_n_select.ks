@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_day6_n_select.ks]
+[_tb_system_call storage=system/day6_n_select.ks]
 
 [cm  ]
 [chara_hide_all  time="1000"  wait="true"  ]

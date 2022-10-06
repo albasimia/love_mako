@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_ericia_4_2.ks]
+[_tb_system_call storage=system/ericia_4_2.ks]
 
 [cm  ]
 [stopbgm  time="3000"  fadeout="true"  ]

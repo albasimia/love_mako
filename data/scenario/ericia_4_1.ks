@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_ericia_4_1.ks]
+[_tb_system_call storage=system/ericia_4_1.ks]
 
 [cm  ]
 [bg  storage="bg/cafe_d.PNG"  time="1000"  ]

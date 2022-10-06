@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_taki_2_2.ks]
+[_tb_system_call storage=system/taki_2_2.ks]
 
 [cm  ]
 [bg  storage="bg/shop_n.PNG"  time="1000"  ]

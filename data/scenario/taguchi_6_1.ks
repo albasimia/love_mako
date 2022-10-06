@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_taguchi_6_1.ks]
+[_tb_system_call storage=system/taguchi_6_1.ks]
 
 [cm  ]
 [bg  storage="bg/drive_d.PNG"  time="1000"  ]

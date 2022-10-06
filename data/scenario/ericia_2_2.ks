@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_ericia_2_2.ks]
+[_tb_system_call storage=system/ericia_2_2.ks]
 
 [cm  ]
 [bg  storage="bg/jinja_n.PNG"  time="1000"  ]

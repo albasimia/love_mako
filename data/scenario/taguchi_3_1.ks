@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_taguchi_3_1.ks]
+[_tb_system_call storage=system/taguchi_3_1.ks]
 
 [cm  ]
 [bg  storage="bg/cafe_d.PNG"  time="1000"  ]

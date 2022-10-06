@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_chana_2_1.ks]
+[_tb_system_call storage=system/chana_2_1.ks]
 
 [cm  ]
 [bg  storage="bg/cafe_d.PNG"  time="1000"  ]

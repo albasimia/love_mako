@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_ericia_5_2.ks]
+[_tb_system_call storage=system/ericia_5_2.ks]
 
 [cm  ]
 [bg  storage="bg/drive_n.PNG"  time="1000"  ]

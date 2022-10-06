@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_makiko_4_1.ks]
+[_tb_system_call storage=system/makiko_4_1.ks]
 
 [cm  ]
 [bg  storage="bg/ramen_d.PNG"  time="1000"  ]

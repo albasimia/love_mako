@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_chana_4_1.ks]
+[_tb_system_call storage=system/chana_4_1.ks]
 
 [cm  ]
 [bg  storage="bg/turi_d.PNG"  time="1000"  ]

@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_live_common.ks]
+[_tb_system_call storage=system/live_common.ks]
 
 [cm  ]
 [chara_hide_all  time="1000"  wait="true"  ]

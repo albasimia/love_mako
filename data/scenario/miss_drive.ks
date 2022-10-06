@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_miss_drive.ks]
+[_tb_system_call storage=system/miss_drive.ks]
 
 [cm  ]
 [iscript]

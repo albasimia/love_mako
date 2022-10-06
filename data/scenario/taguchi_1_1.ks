@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_taguchi_1_1.ks]
+[_tb_system_call storage=system/taguchi_1_1.ks]
 
 [cm  ]
 [tb_start_tyrano_code]
