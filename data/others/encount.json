@@ -1,0 +1,362 @@
+{
+    "day1_d": {
+        "turi": {
+            "chara": "",
+            "file": "miss_turi.ks"
+        },
+        "ramen": {
+            "chara": "taguchi",
+            "file": "taguchi_1_1.ks"
+        },
+        "jinja": {
+            "chara": "ericia",
+            "file": "ericia_1_1.ks"
+        },
+        "cafe": {
+            "chara": "",
+            "file": "miss_cafe.ks"
+        },
+        "shop": {
+            "chara": "makiko",
+            "file": "makiko_1_1.ks"
+        },
+        "drive": {
+            "chara": "taki",
+            "file": "taki_1_1.ks"
+        },
+        "famima": {
+            "chara": "chana",
+            "file": "chana_1_1.ks"
+        }
+    },
+    "day1_n": {
+        "turi": {
+            "chara": "taguchi",
+            "file": "taguchi_1_2.ks"
+        },
+        "ramen": {
+            "chara": "chana",
+            "file": "chana_1_2.ks"
+        },
+        "jinja": {
+            "chara": "ericia",
+            "file": "ericia_1_2.ks"
+        },
+        "cafe": {
+            "chara": "",
+            "file": "miss_cafe.ks"
+        },
+        "shop": {
+            "chara": "",
+            "file": "miss_shop.ks"
+        },
+        "drive": {
+            "chara": "makiko",
+            "file": "makiko_1_2.ks"
+        },
+        "famima": {
+            "chara": "taki",
+            "file": "taki_1_2.ks"
+        }
+    },
+    "day2_d": {
+        "turi": {
+            "chara": "makiko",
+            "file": "makiko_2_1.ks"
+        },
+        "ramen": {
+            "chara": "",
+            "file": "miss_ramen,ks"
+        },
+        "jinja": {
+            "chara": "taki",
+            "file": "taki_2_1.ks"
+        },
+        "cafe": {
+            "chara": "chana",
+            "file": "chana_2_1.ks"
+        },
+        "shop": {
+            "chara": "taguchi",
+            "file": "taguchi_2_1.ks"
+        },
+        "drive": {
+            "chara": "",
+            "file": "miss_drive.ks"
+        },
+        "famima": {
+            "chara": "ericia",
+            "file": "ericia_2_1.ks"
+        }
+    },
+    "day2_n": {
+        "turi": {
+            "chara": "",
+            "file": "miss_turi.ks"
+        },
+        "ramen": {
+            "chara": "taguchi",
+            "file": "taguchi_2_2.ks"
+        },
+        "jinja": {
+            "chara": "ericia",
+            "file": "ericia_2_2.ks"
+        },
+        "cafe": {
+            "chara": "",
+            "file": "miss_cafe.ks"
+        },
+        "shop": {
+            "chara": "taki",
+            "file": "taki_2_2.ks"
+        },
+        "drive": {
+            "chara": "chana",
+            "file": "chana_2_2.ks"
+        },
+        "famima": {
+            "chara": "makiko",
+            "file": "makiko_2_2.ks"
+        }
+    },
+    "day3_d": {
+        "turi": {
+            "chara": "taki",
+            "file": "taki_3_1.ks"
+        },
+        "ramen": {
+            "chara": "",
+            "file": "miss_ramen.ks"
+        },
+        "jinja": {
+            "chara": "ericia",
+            "file": "ericia_3_1.ks"
+        },
+        "cafe": {
+            "chara": "taguchi",
+            "file": "taguchi_3_1.ks"
+        },
+        "shop": {
+            "chara": "makiko",
+            "file": "makiko_3_1.ks"
+        },
+        "drive": {
+            "chara": "",
+            "file": "miss_drive.ks"
+        },
+        "famima": {
+            "chara": "chana",
+            "file": "chana_3_1.ks"
+        }
+    },
+    "day3_n": {
+        "turi": {
+            "chara": "",
+            "file": "miss_turi.ks"
+        },
+        "ramen": {
+            "chara": "taguchi",
+            "file": "taguchi_3_2.ks"
+        },
+        "jinja": {
+            "chara": "",
+            "file": "miss_jinja.ks"
+        },
+        "cafe": {
+            "chara": "ericia",
+            "file": "ericia_3_2.ks"
+        },
+        "shop": {
+            "chara": "makiko",
+            "file": "makiko_3_2.ks"
+        },
+        "drive": {
+            "chara": "taki",
+            "file": "taki_3_2.ks"
+        },
+        "famima": {
+            "chara": "chana",
+            "file": "chana_3_2.ks"
+        }
+    },
+    "day4_d": {
+        "turi": {
+            "chara": "chana",
+            "file": "chana_4_1.ks"
+        },
+        "ramen": {
+            "chara": "",
+            "file": "miss_ramen.ks"
+        },
+        "jinja": {
+            "chara": "",
+            "file": "miss_jinja.ks"
+        },
+        "cafe": {
+            "chara": "ericia",
+            "file": "ericia_4_1.ks"
+        },
+        "shop": {
+            "chara": "",
+            "file": "miss_shop.ks"
+        },
+        "drive": {
+            "chara": "taguchi",
+            "file": "taguchi_4_1.ks"
+        },
+        "famima": {
+            "chara": "taki",
+            "file": "taki_4_1.ks"
+        }
+    },
+    "day4_n": {
+        "turi": {
+            "chara": "chana",
+            "file": "chana_4_2.ks"
+        },
+        "ramen": {
+            "chara": "taguchi",
+            "file": "taguchi_4_2.ks"
+        },
+        "jinja": {
+            "chara": "ericia",
+            "file": "ericia_4_2.ks"
+        },
+        "cafe": {
+            "chara": "",
+            "file": "miss_cafe.ks"
+        },
+        "shop": {
+            "chara": "makiko",
+            "file": "makiko_4_2.ks"
+        },
+        "drive": {
+            "chara": "",
+            "file": "miss_drive.ks"
+        },
+        "famima": {
+            "chara": "chana",
+            "file": "taki_4_2.ks"
+        }
+    },
+    "day5_d": {
+        "turi": {
+            "chara": "taguchi",
+            "file": "taguchi_5_1.ks"
+        },
+        "ramen": {
+            "chara": "chana",
+            "file": "chana_5_1.ks"
+        },
+        "jinja": {
+            "chara": "",
+            "file": "miss_jinja.ks"
+        },
+        "cafe": {
+            "chara": "taki",
+            "file": "taki_5_1.ks"
+        },
+        "shop": {
+            "chara": "ericia",
+            "file": "ericia_5_1.ks"
+        },
+        "drive": {
+            "chara": "makiko",
+            "file": "makiko_5_1.ks"
+        },
+        "famima": {
+            "chara": "",
+            "file": "miss_famima.ks"
+        }
+    },
+    "day5_n": {
+        "turi": {
+            "chara": "",
+            "file": "miss_turi.ks"
+        },
+        "ramen": {
+            "chara": "makiko",
+            "file": "makiko_5_2.ks"
+        },
+        "jinja": {
+            "chara": "chana",
+            "file": "chana_5_2.ks"
+        },
+        "cafe": {
+            "chara": "taki",
+            "file": "taki_5_2.ks"
+        },
+        "shop": {
+            "chara": "taguchi",
+            "file": "taguchi_5_2.ks"
+        },
+        "drive": {
+            "chara": "ericia",
+            "file": "ericia_5_2.ks"
+        },
+        "famima": {
+            "chara": "",
+            "file": "miss_famima.ks"
+        }
+    },
+    "day6_d": {
+        "turi": {
+            "chara": "taki",
+            "file": "taki_6_1.ks"
+        },
+        "ramen": {
+            "chara": "ericia",
+            "file": "ericia_6_1.ks"
+        },
+        "jinja": {
+            "chara": "makiko",
+            "file": "makiko_6_1.ks"
+        },
+        "cafe": {
+            "chara": "",
+            "file": "miss_cafe.ks"
+        },
+        "shop": {
+            "chara": "",
+            "file": "miss_shop.ks"
+        },
+        "drive": {
+            "chara": "taguchi",
+            "file": "taguchi_6_1.ks"
+        },
+        "famima": {
+            "chara": "chana",
+            "file": "chana_6_1.ks"
+        }
+    },
+    "day6_n": {
+        "turi": {
+            "chara": "",
+            "file": "miss_turi.ks"
+        },
+        "ramen": {
+            "chara": "taguchi",
+            "file": "taguchi_6_2.ks"
+        },
+        "jinja": {
+            "chara": "ericia",
+            "file": "ericia_6_2.ks"
+        },
+        "cafe": {
+            "chara": "",
+            "file": "miss_cafe.ks"
+        },
+        "shop": {
+            "chara": "makiko",
+            "file": "makiko_6_2.ks"
+        },
+        "drive": {
+            "chara": "taki",
+            "file": "taki_6_2.ks"
+        },
+        "famima": {
+            "chara": "chana",
+            "file": "chana_6_2.ks"
+        }
+    }
+}

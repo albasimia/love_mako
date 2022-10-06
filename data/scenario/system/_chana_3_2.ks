@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/bg/famima_n.PNG"  ]
+[preload  storage="./data/fgimage/chara/4/masara_ai.PNG"  ]
+[preload  storage="./data/fgimage/chara/4/masara_n.PNG"  ]
+[preload  storage="./data/fgimage/chara/4/masara_ki.PNG"  ]
+[return]

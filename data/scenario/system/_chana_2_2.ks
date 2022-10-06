@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/bg/drive_n.PNG"  ]
+[preload  storage="./data/fgimage/chara/4/masara_n.PNG"  ]
+[preload  storage="./data/fgimage/chara/4/masara_bikkuri.PNG"  ]
+[preload  storage="./data/fgimage/chara/4/masara_do.PNG"  ]
+[preload  storage="./data/fgimage/chara/4/masara_ki.PNG"  ]
+[return]

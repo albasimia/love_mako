@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/bg/drive_n.PNG"  ]
+[preload  storage="./data/fgimage/chara/2/taki_ki.PNG"  ]
+[preload  storage="./data/fgimage/chara/2/taki_t.PNG"  ]
+[preload  storage="./data/fgimage/chara/2/taki_ai.PNG"  ]
+[return]

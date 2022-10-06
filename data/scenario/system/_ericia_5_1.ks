@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/bg/shop_d.PNG"  ]
+[preload  storage="./data/fgimage/chara/5/ericia_bikkuri.PNG"  ]
+[preload  storage="./data/fgimage/chara/5/ericia_n.PNG"  ]
+[preload  storage="./data/fgimage/chara/5/ericia_t.PNG"  ]
+[preload  storage="./data/fgimage/chara/5/ericia_ai.PNG"  ]
+[preload  storage="./data/fgimage/chara/5/ericia_ki.PNG"  ]
+[return]

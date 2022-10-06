@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/bg/cafe_d.PNG"  ]
+[preload  storage="./data/fgimage/chara/2/taki_ki.PNG"  ]
+[preload  storage="./data/fgimage/chara/2/taki_t.PNG"  ]
+[preload  storage="./data/fgimage/chara/2/taki_n.PNG"  ]
+[return]

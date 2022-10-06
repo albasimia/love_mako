@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/bg/cafe_d.PNG"  ]
+[preload  storage="./data/fgimage/chara/1/taguchi_bikkuri.PNG"  ]
+[preload  storage="./data/fgimage/chara/1/taguchi_ki.PNG"  ]
+[preload  storage="./data/fgimage/chara/1/taguchi_t.PNG"  ]
+[preload  storage="./data/fgimage/chara/1/taguchi_n.PNG"  ]
+[return]

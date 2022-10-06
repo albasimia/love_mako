@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/bg/famima_n.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/megamakiko_bikkuri.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/megamakiko_n.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/megamakiko_ki.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/megamakiko_ai.PNG"  ]
+[return]
